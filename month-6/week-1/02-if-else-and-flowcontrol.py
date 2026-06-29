@@ -73,7 +73,7 @@ if unit == 'TB' or unit == 'tb' or unit == 'Tb' or unit == "tB":
     # 1024 ** 4 = 1099511627776
 elif unit == 'GB' or unit == 'gb' or unit == 'Gb' or unit == "gB":
     discrepancy = 1000000000 / 1073741824
-    # 1024 ** 3 = 1073741824
+    # 1024 ** 3 = 1073741824 
 
 # Get the factory capacity and convert the string input to float
 print('Enter the advertised capacity:')
