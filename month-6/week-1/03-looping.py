@@ -8,4 +8,4 @@ while True:
     name = input('>')
     if name == 'your name':
         break
-print('Thank you!')
+print('Thank you!') 
